@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\jq\hlvr\strider\strider_weapons_color"
+	"$bumpmap" "models\jq\hlvr\strider\strider_weapons_normal"
+	"$phongexponenttexture" "models\jq\hlvr\strider\strider_weapons_exponent"
+	"$phong" "1"
+	"$phongBoost" "3"
+	"$phongexponent" "1"
+	"$phongFresnelRanges" "[0.1 0.5 1]"
+	"$phongDisableHalfLambert" "1"
+	"$NoCull" "1"
+}
