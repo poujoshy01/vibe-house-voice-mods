@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	$BaseTexture 			   "cultist\hla_metropolice\mask"
+	$BumpMap 				   "cultist\hla_metropolice\mask_n"
+
+	$phong 					   1
+	$phongboost 			   0.4
+	$phongfresnelranges 	   "[0.2 0.851 20]"
+	$phongexponenttexture      "cultist\hla_metropolice\mask_exp"
+
+	$detail 				   "cultist\hla_metropolice\mask_glow"
+	$detailscale 			   1
+	$detailblendfactor 	   	   1
+	$detailblendmode 		   1
+
+	$rimlight                  1
+	$rimlightexponent          2
+	$rimlightboost             .2
+
+	$selfillum				   1
+	$selfillumtint			   "[0.3 0.3 0.3]"
+	$selfillummask			   "cultist\hla_metropolice\mask_glow"
+}

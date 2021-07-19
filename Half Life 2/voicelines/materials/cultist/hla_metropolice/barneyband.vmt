@@ -1,0 +1,23 @@
+VertexLitGeneric
+{
+	$basetexture "cultist/hla_metropolice/band"
+	$bumpmap "cultist/hla_metropolice/band_n"
+
+	$phong 1
+	$phongexponenttexture "cultist/hla_metropolice/body_exp"
+	$phongfresnelranges "[0.12 0.83 20]"
+	$phongboost 0.4
+
+	$rimlight 1
+	$rimlightexponent 2
+	$rimlightboost 0.2
+
+	Proxies
+	{
+		EntityRandom
+		{
+			scale 1
+			resultvar "$frame"
+		}
+	}
+}
