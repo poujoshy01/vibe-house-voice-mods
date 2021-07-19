@@ -1,0 +1,2 @@
+*.vtf filter=lfs diff=lfs merge=lfs -text
+*.vrf filter=lfs diff=lfs merge=lfs -text
